@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62905163-ac75-45c8-9eb2-36ccbba6ddc9" name="Changes" comment="" />
+    <list default="true" id="62905163-ac75-45c8-9eb2-36ccbba6ddc9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/killer.js" beforeDir="false" afterPath="$PROJECT_DIR$/killer.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,10 +61,22 @@
       <workItem from="1668418054374" duration="56000" />
       <workItem from="1668418209097" duration="670000" />
       <workItem from="1668418932797" duration="3507000" />
+      <workItem from="1668451950785" duration="59000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

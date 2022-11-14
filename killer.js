@@ -78,6 +78,7 @@ while(true){
 
   if (jason.hp <= 0){
     console.log('jason est mort...' + ' ' + 'Les survivants ont gagné !!!')
+    console.log('Les survivants sont : ' + survivants.map(survivants => survivants.nom))
     break
   } 
   if (survivants.length == 0){
